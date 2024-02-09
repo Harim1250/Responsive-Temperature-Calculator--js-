@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    background: linear-gradient(to left bottom, lightgreen, lightblue);
+    min-height: 100vh;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    padding: 20px;
+    width: 80%;
+    border: solid ;
+    
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading{
+   color: yellowgreen;
+   text-decoration: underline;
+}
+
+
+.temp-container{
+    padding: 15px;
+}
+
+.input{
+   width: 200px;
+   padding: 5px;
+    float: right;
+}
+
+
